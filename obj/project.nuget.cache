@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "h29UeF/b+kKB2kY/OoIdKtCjaZUBayqwCxZta7nOpEx4yaoxuPyP0wMb6htPDdQI6wwI6f6ggXk/XtEo9cdCvA==",
+  "dgSpecHash": "pIzsQe2cu00Ccwik7Hombw+8ifm5o2Sj0SxShzRMRKChObVprXqI21WQdW7Ps44y3CxZOEKGc9NXSqbx4QIGLg==",
   "success": true,
-  "projectFilePath": "C:\\programing\\FrontExerciseBeckend\\FrontendExercise.csproj",
+  "projectFilePath": "D:\\Programming\\FrontExerciseBeckend\\FrontendExercise.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ofirg\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\ofirg\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
-    "C:\\Users\\ofirg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
-    "C:\\Users\\ofirg\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
   ],
   "logs": []
 }
